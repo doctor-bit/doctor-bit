@@ -1,21 +1,16 @@
-#First IMG
 <div id="header" align="center">
-  <img src="https://i.gifer.com/XBQI.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/05/e7/86/05e7866517bf12f393db14cbdc5d0bbe.gif" width="100"/>
 </div>
-
-#Badges linked url
 <div id="badges">
   <a href="https://twitter.com/MatinhosTriste">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-#Profile Views & Welcome
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1>
   Working in my self
   <img src="https://i.pinimg.com/originals/8c/46/b5/8c46b531a9e1c9698db442e40c8496f0.gif" width="30px"/>
 </h1>
-#My Stuff
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
