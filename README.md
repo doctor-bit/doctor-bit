@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=doctor-bit&style=flat-square&color=blue" alt=""/>
 <h1>
   Working in my self
   <img src="https://i.pinimg.com/originals/8c/46/b5/8c46b531a9e1c9698db442e40c8496f0.gif" width="30px"/>
